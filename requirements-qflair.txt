@@ -1,0 +1,14 @@
+# Pinos extraídos do requirements.txt OFICIAL (commit 4f331783), subconjunto necessário ao QNN_logLoss.py / QNN_predict.py.
+# NÃO INSTALADO. Só para uma etapa posterior autorizada, num venv NOVO e isolado (python 3.11).
+qiskit==0.44.3
+qiskit-terra==0.25.3
+qiskit-aer==0.12.2
+qiskit-machine-learning==0.6.1
+qiskit-ibm-provider==0.6.2
+numpy==1.23.5
+scikit-learn==1.6.0
+scipy==1.12.0
+joblib==1.3.2
+sympy==1.12
+rustworkx==0.15.1
+symengine==0.9.2

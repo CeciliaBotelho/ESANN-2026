@@ -1,0 +1,7 @@
+{
+  "released": {"generation": 42, "partition": 20261109, "training": 800, "validation": 200, "test": 200},
+  "initial": {"generation": [20261201, 20261202, 20261203, 20261204, 20261205], "partition": [20261109, 20261109, 20261109, 20261109, 20261109], "training": 800, "validation": 200, "test": 1000, "primary": "CAL", "secondary": "RAW"},
+  "confirmation": {"generation": [20263001, 20263002, 20263003, 20263004, 20263005], "partition": [20263101, 20263102, 20263103, 20263104, 20263105], "training": 800, "validation": 200, "test": 1000, "primary": "RAW"},
+  "qflair_algorithm_seed": 12345,
+  "note": "Generation and partition seeds were fixed before test evaluation. Their numerical values do not carry a scientific meaning."
+}

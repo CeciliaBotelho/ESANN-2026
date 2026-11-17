@@ -1,0 +1,13 @@
+Xtest   Xtest.csv
+Xtrain   Xtrain.csv
+Xval   Xval.csv
+Ytest   Ytest.csv
+Ytrain   Ytrain.csv
+Yval   Yval.csv
+seed    12345
+gateList   Rxx_x,Ryy_x,U2_x,U3_x,H_y
+kernelFile  Kernel_collect.txt
+gateFile  Gate_collect.txt
+costFile  Cost_collect.txt
+parallel  2
+accOut  ACC_train.txt

@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "datasets": [
+    {
+      "seed": 42,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20261201,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20261202,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20261203,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20261204,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20261205,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20263001,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20263002,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20263003,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20263004,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    },
+    {
+      "seed": 20263005,
+      "data_max_difference": 0.0,
+      "qflair_replay_max_difference": 0.0
+    }
+  ],
+  "scientific_definitions_unchanged": true,
+  "python": "3.11.5",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.1"
+}

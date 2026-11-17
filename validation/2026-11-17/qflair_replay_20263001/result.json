@@ -1,0 +1,21 @@
+{
+  "seed": 20263001,
+  "mode": "saved_circuit_replay",
+  "quantum_evaluations": "Exact Qiskit statevector, no hardware/shots",
+  "operations": 32,
+  "qiskit_numpy_max_difference": 1.2212453270876722e-15,
+  "choice": {
+    "k": 32,
+    "C": 1.0,
+    "a": 3.939362557707855,
+    "b": -0.45776466878263034,
+    "bce_val": 0.4576676413659105,
+    "const": false
+  },
+  "balanced_accuracy": 0.7851770654974316,
+  "BCE": 0.434026518767958,
+  "AUC": 0.8504664671712726,
+  "cpu_parent_s": 13.91048,
+  "wall_s": 14.586792666988913,
+  "qiskit": "0.25.3"
+}

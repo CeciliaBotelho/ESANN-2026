@@ -1,0 +1,11 @@
+--- original/QNN/QNN_predict.py
++++ executed/QNN/QNN_predict.py
+@@ -194,7 +194,7 @@
+ 
+ print('read in finished')
+ n_feature = len(normalized_Xtrain[0])
+-n_qubit = n_feature	#5
++n_qubit = 4	#5  [edicao declarada: comparacao_qflair_oficial]
+ PARAM = ParameterVector('x', n_feature)
+ opZ = SparsePauliOp("Z"*n_qubit)
+ 

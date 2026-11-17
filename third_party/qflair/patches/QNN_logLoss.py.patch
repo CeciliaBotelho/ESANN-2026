@@ -1,0 +1,11 @@
+--- original/QNN/QNN_logLoss.py
++++ executed/QNN/QNN_logLoss.py
+@@ -321,7 +321,7 @@
+ 
+ #Define constants
+ n_feature = len(normalized_Xtrain[0])
+-n_qubit=n_feature    #5
++n_qubit=4    #5  [edicao declarada: comparacao_qflair_oficial]
+ algorithm_globals.random_seed = seed
+ norm_Xtrain_l = len(normalized_Xtrain)
+ norm_Xval_l=len(normalized_Xval)

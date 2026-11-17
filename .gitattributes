@@ -1,0 +1,5 @@
+# Keep archived sources byte-for-byte; whitespace belongs to upstream/history.
+third_party/** -whitespace
+provenance/** -whitespace
+artifacts/** -whitespace
+validation/** -whitespace

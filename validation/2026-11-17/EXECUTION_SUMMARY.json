@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-17",
+  "archived_datasets_verified": 11,
+  "fresh_block_search_runs": 27,
+  "fresh_runs": [
+    {
+      "seed": 20263001,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20263002,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20263003,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20263004,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20263005,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261201,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261201,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261201,
+      "arm": "SEQ",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261201,
+      "arm": "SEQ_REF",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261202,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261202,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261202,
+      "arm": "SEQ",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261202,
+      "arm": "SEQ_REF",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261203,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261203,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261203,
+      "arm": "SEQ",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261203,
+      "arm": "SEQ_REF",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261204,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261204,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261204,
+      "arm": "SEQ",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261204,
+      "arm": "SEQ_REF",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261205,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261205,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261205,
+      "arm": "SEQ",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 20261205,
+      "arm": "SEQ_REF",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 42,
+      "arm": "BLOCO_RAW",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    },
+    {
+      "seed": 42,
+      "arm": "BLOCO_CAL",
+      "prediction_max_difference": 0.0,
+      "same_structure": true,
+      "selected_prefix_matches": true
+    }
+  ],
+  "reference_saved_circuit_qiskit_replayed": 1,
+  "reference_training_reexecuted": false,
+  "reference_replay_max_difference": 1.2212453270876722e-15,
+  "full_reference_retraining_command": "python run_reference.py --seed 20263001 --output runs/qflair_train_20263001",
+  "note": "Historical reference training has not been rerun in this packaging task. No scientific sources, manuscript, seeds or historical results were modified."
+}

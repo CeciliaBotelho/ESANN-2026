@@ -1,0 +1,1190 @@
+[
+  {
+    "source": "mamografia-estudo/experimentos/quantico_39_qflair_sintetico/qflair.py",
+    "destination": "src/esann/simulator.py",
+    "source_sha256": "dc4111b018e02a7869007dba5fcfd79b86b4dd6a6a4573b4d45236972ac3eea6",
+    "unchanged_definitions": [
+      "estado_inicial",
+      "aplica",
+      "p0",
+      "logloss",
+      "angulo",
+      "Escala"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/quantico_39_qflair_sintetico/qflair.py",
+    "destination": "provenance/original_science/quantico_39_qflair_sintetico/qflair.py",
+    "sha256": "dc4111b018e02a7869007dba5fcfd79b86b4dd6a6a4573b4d45236972ac3eea6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/quantico_40_blocos_pares/blocos.py",
+    "destination": "provenance/original_science/quantico_40_blocos_pares/blocos.py",
+    "sha256": "f08eba4d5abc801320630aca586dbfd3e5ba204483cf600cf2a344b45638135b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_aprendida_temporal/busca_aprendida.py",
+    "destination": "src/esann/calibration.py",
+    "source_sha256": "2918af8eeeced9392a69023c7fe689468acfd7ec9541721d5a6857534f972418",
+    "unchanged_definitions": [
+      "_J",
+      "_G",
+      "_H",
+      "calibra",
+      "certifica",
+      "cert_ok",
+      "bce_p"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_aprendida_temporal/busca_aprendida.py",
+    "destination": "provenance/original_science/busca_aprendida_temporal/busca_aprendida.py",
+    "sha256": "2918af8eeeced9392a69023c7fe689468acfd7ec9541721d5a6857534f972418"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_aprendida_blocos/pares.py",
+    "destination": "src/esann/reconstruction.py",
+    "source_sha256": "4c38ce95ead80a64242f556914e1f5254304325b12c1a5c3f886a6a0fc2a6731",
+    "unchanged_definitions": [
+      "reconstroi_par"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_aprendida_blocos/pares.py",
+    "destination": "provenance/original_science/busca_aprendida_blocos/pares.py",
+    "sha256": "4c38ce95ead80a64242f556914e1f5254304325b12c1a5c3f886a6a0fc2a6731"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_blocos_objetivo_perfilado/objetivo_blocos.py",
+    "destination": "src/esann/search.py",
+    "source_sha256": "c93698889910253ba3e0bff1eb0650876ceb1f2598322e6ddf92b90617c25a53",
+    "unchanged_definitions": [
+      "fi",
+      "dfi",
+      "p0_tensor",
+      "p0_e_grad_tensor",
+      "Alvo",
+      "j_c1",
+      "constroi_bloco",
+      "final_c1",
+      "profundidade"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/busca_blocos_objetivo_perfilado/objetivo_blocos.py",
+    "destination": "provenance/original_science/busca_blocos_objetivo_perfilado/objetivo_blocos.py",
+    "sha256": "c93698889910253ba3e0bff1eb0650876ceb1f2598322e6ddf92b90617c25a53"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/ablacao.py",
+    "destination": "src/esann/controls.py",
+    "source_sha256": "ad7b1d0ff9332abe2d8e097eb240e9e02447673cab893be8347dfdd21a070434",
+    "unchanged_definitions": [
+      "recon1",
+      "p0g_1",
+      "_escolhe_1d",
+      "constroi_seq",
+      "constroi_ref"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/ablacao.py",
+    "destination": "provenance/original_science/bs_artigo_proximos_testes/ablacao.py",
+    "sha256": "ad7b1d0ff9332abe2d8e097eb240e9e02447673cab893be8347dfdd21a070434"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/resumo_matriz.py",
+    "destination": "src/esann/metrics.py",
+    "source_sha256": "9f0a52793de2ee399a617a62c5fe5859eba36f6427ff5c2ee0db6a677647d081",
+    "unchanged_definitions": [
+      "bce",
+      "auc",
+      "sel_prefixo_P0"
+    ]
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/resumo_matriz.py",
+    "destination": "provenance/original_science/comparacao_qflair_oficial/resumo_matriz.py",
+    "sha256": "9f0a52793de2ee399a617a62c5fe5859eba36f6427ff5c2ee0db6a677647d081"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/fontes_gerador/bars_and_stripes_f06e20c_fev2024.py",
+    "destination": "third_party/qml_benchmarks/bars_and_stripes.py",
+    "sha256": "dca78b9ad9a5e90228eaebbe62328566f9b5e775ae4356bf675a561a340fa97c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/fontes_gerador/LICENSE",
+    "destination": "third_party/qml_benchmarks/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/fontes_gerador/paper_generate_bars_and_stripes_25bb224.py",
+    "destination": "third_party/qml_benchmarks/generate_paper_reference.py",
+    "sha256": "2edee3799a2f97f596d72248644ad46defbc6da9c0f9327944ebfee589122ede"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/LICENSE",
+    "destination": "third_party/qflair/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/requirements.txt",
+    "destination": "third_party/qflair/requirements-original.txt",
+    "sha256": "8afc80196bc07ff21b7fa5df767762e69355db2463133bca526a6ca83321f7ac"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/Results/Data_QNN/logLossBS/params",
+    "destination": "third_party/qflair/params-original",
+    "sha256": "9bf654960a1606f15986f6310c06949aeeaef180c95a8c9d9d2de06a316f4378"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_circuit.py",
+    "destination": "third_party/qflair/original/QNN/QNN_circuit.py",
+    "sha256": "44372b8336507110b7393e743d1bd4c9fa0327fc01f04fa717172efac39f2906"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_circuit.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_circuit.py",
+    "sha256": "44372b8336507110b7393e743d1bd4c9fa0327fc01f04fa717172efac39f2906"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_circuitConstruction.py",
+    "destination": "third_party/qflair/original/QNN/QNN_circuitConstruction.py",
+    "sha256": "edd5760d1e7c84294dcfa3e622e989aecaf85a2c573d04ca75ee8cd954d87c79"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_circuitConstruction.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_circuitConstruction.py",
+    "sha256": "edd5760d1e7c84294dcfa3e622e989aecaf85a2c573d04ca75ee8cd954d87c79"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_cost.py",
+    "destination": "third_party/qflair/original/QNN/QNN_cost.py",
+    "sha256": "92f936aed2afe2ed7822480845d8f83b425dab7f6ce05d0646281d4b03a0b015"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_cost.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_cost.py",
+    "sha256": "92f936aed2afe2ed7822480845d8f83b425dab7f6ce05d0646281d4b03a0b015"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_in_out.py",
+    "destination": "third_party/qflair/original/QNN/QNN_in_out.py",
+    "sha256": "876937d997d83e2373a23d4b6b0d4b30e0789ab336d874818f57e8586221279a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_in_out.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_in_out.py",
+    "sha256": "876937d997d83e2373a23d4b6b0d4b30e0789ab336d874818f57e8586221279a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_logLoss.py",
+    "destination": "third_party/qflair/original/QNN/QNN_logLoss.py",
+    "sha256": "0722a19e8a4ebe91236562e3675a9cff137f78658d5b84d7803fe3da7724b548"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_logLoss.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_logLoss.py",
+    "sha256": "de11a75d05124082b2f73cd64b696ab7e8a662d23d1a2e168b99f26c33480a78"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_logLoss__randomAngle.py",
+    "destination": "third_party/qflair/original/QNN/QNN_logLoss__randomAngle.py",
+    "sha256": "c9fb184b26df02a75ddeeb7b4e53c61c446711d5ec72eb435d8ed3950e429ef3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_logLoss_randomAngle_MultiPara.py",
+    "destination": "third_party/qflair/original/QNN/QNN_logLoss_randomAngle_MultiPara.py",
+    "sha256": "428bbc5c748fb33863ada8e4fd234a976ca85a74d4afe2f0b3d23cb82310ae31"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_logLoss_randomFeature.py",
+    "destination": "third_party/qflair/original/QNN/QNN_logLoss_randomFeature.py",
+    "sha256": "919e8ce14882d93f55a5eed3c378446bc42bbfc9902d63453d5666c5c3499535"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_logLoss_randomGate.py",
+    "destination": "third_party/qflair/original/QNN/QNN_logLoss_randomGate.py",
+    "sha256": "891ef0d5e3ce66bc34e47e681ba94e4145f6faeed7ce342c81c058b2768c5deb"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/QNN/QNN_predict.py",
+    "destination": "third_party/qflair/original/QNN/QNN_predict.py",
+    "sha256": "349380396825b59beac2b60a7c861ab95a0ec1b6a0d3ba2d54dadbc122bacc9e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/exec/QNN/QNN_predict.py",
+    "destination": "third_party/qflair/executed/QNN/QNN_predict.py",
+    "sha256": "715f4509bf8709375313907b33cffc8bfd8874d6459666f56276338c291905cd"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/comparacao_qflair_oficial/requisitos_execucao_oficial.txt",
+    "destination": "requirements-qflair.txt",
+    "sha256": "21a7f2b78b2f6b2d94244b461a486fa2888e0748be845b04ca4326fdeef8717e"
+  },
+  {
+    "source": "mamografia-estudo/LICENSE",
+    "destination": "LICENSE",
+    "sha256": "5210d3eaaabe6d6e78efd53c6d7cd963babf5f3e5acf5e113eddbc18d778d8fa"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Xtest.csv",
+    "destination": "artifacts/released/42/data/Xtest.csv",
+    "sha256": "28b0481eb6affb127d04a41bc41db23857e14e9709f88061fb422822e4ac5d41"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Xtrain.csv",
+    "destination": "artifacts/released/42/data/Xtrain.csv",
+    "sha256": "68f20ddc2f900b7c7bb4d3eb6abe0f8350bd7e193f0bbe4591db21059dd5eea7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Xval.csv",
+    "destination": "artifacts/released/42/data/Xval.csv",
+    "sha256": "bfe00529b4969a9943bc448912cf34d0fbe311a3b20b2d4135aeda33eacae998"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Ytest.csv",
+    "destination": "artifacts/released/42/data/Ytest.csv",
+    "sha256": "d76979026e95b675a178295df7f4cff90c53f63c8884c6e4346239a98c82f57b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Ytrain.csv",
+    "destination": "artifacts/released/42/data/Ytrain.csv",
+    "sha256": "da03310c8af727fe5388aa5eb5d923f2afcd070acb62f2dd147a8a48d3d05756"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/Yval.csv",
+    "destination": "artifacts/released/42/data/Yval.csv",
+    "sha256": "9e1dedfabec0ea26a1ad9f9b443498ce3caf1606a88da94cba9c317b91a992b9"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/dados/dados_meta.json",
+    "destination": "artifacts/released/42/data/dados_meta.json",
+    "sha256": "87eb222459c06455c3bc39d5d5d77ec81bdbfabebf994262b30707b77f3244db"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/bloco/bloco.json",
+    "destination": "artifacts/released/42/bloco/bloco.json",
+    "sha256": "edf0d5e4fe3511b1df7d90bb3a6b4b9cb8a5cf60046480d0a8da038e558b9194"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/bloco/bloco.npz",
+    "destination": "artifacts/released/42/bloco/bloco.npz",
+    "sha256": "210009d3c60f6501a0d7e409b8ab3667c2a7304b7cee3eae12630ec3ad809eb7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/replay_A.npz",
+    "destination": "artifacts/released/42/qf/replay_A.npz",
+    "sha256": "1be32dbf4fd96ebd20042f0d7803db5367ea6e263225cb019a46f6b1b67a0e10"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/replay_B.npz",
+    "destination": "artifacts/released/42/qf/replay_B.npz",
+    "sha256": "e09c34d78cdcec3734fc3864b83cee4e7639e0baf982f9dcf89dcfa44c75692c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/Gate_collect.txt",
+    "destination": "artifacts/released/42/qf/Gate_collect.txt",
+    "sha256": "cee3f371c9cfc3e956ce065675e13b64194392aae02bab2a89b85ac596a4aaa7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/Cost_collect.txt",
+    "destination": "artifacts/released/42/qf/Cost_collect.txt",
+    "sha256": "8d59274c1e959019533e64151bfba185513c77ebf36d1003a63b0cf41140bb64"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/ACC_train.txt",
+    "destination": "artifacts/released/42/qf/ACC_train.txt",
+    "sha256": "7d2d6e939d778329721f4a74ccc5965dd84d53422f08cb0f061bfbdde7197eaf"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/qf/ACC_test.txt",
+    "destination": "artifacts/released/42/qf/ACC_test.txt",
+    "sha256": "6df71b98ba34273e073936d59fd737043e2353ac6232e622452d208d3ff8edd0"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/comparacao_bs/predicoes_bracos.npz",
+    "destination": "artifacts/released/42/predicoes_bracos.npz",
+    "sha256": "71b4af7cc0b490233dd6d824da031cc0894a389012bea7d69acae9a3a9dd5cb0"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Xtest.csv",
+    "destination": "artifacts/initial/20261201/data/Xtest.csv",
+    "sha256": "0026b237cddbdb72e25eed6e6fcabbf4bfb014100b6b8870ba132bd1d4ef775b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Xtrain.csv",
+    "destination": "artifacts/initial/20261201/data/Xtrain.csv",
+    "sha256": "dc69b23406837b00f9fafbd5702167a1eb59dcc7e55acca62b7b8c2b1b9709a3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Xval.csv",
+    "destination": "artifacts/initial/20261201/data/Xval.csv",
+    "sha256": "daa0ab8108c0e5ba703b7b04ef8cb7a8ace5bdc46f570738e9e2feb33476710e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Ytest.csv",
+    "destination": "artifacts/initial/20261201/data/Ytest.csv",
+    "sha256": "3fc761166ab9a4d239d161d7c160a961a661d6e8cb8beacaffc5f8e5281b8311"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Ytrain.csv",
+    "destination": "artifacts/initial/20261201/data/Ytrain.csv",
+    "sha256": "a8122ea90f556f084bd126e470dd63178d9e6ccb2686ee6967a7cb771864ecaa"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/Yval.csv",
+    "destination": "artifacts/initial/20261201/data/Yval.csv",
+    "sha256": "d5d1f26b74167f83ec77bdc0778e454871e3b80a22306614133508abcb7dc7f6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/dados/dados_meta.json",
+    "destination": "artifacts/initial/20261201/data/dados_meta.json",
+    "sha256": "d91ee8f4aafb442ee73d3f62d555fe91b3e7797fc3d3fc928150e91ef07ffcde"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/bloco/bloco.json",
+    "destination": "artifacts/initial/20261201/bloco/bloco.json",
+    "sha256": "8eda2afa77c0669ea0b8d1fd884c68fb793502b8f74b97b7698e040b73f9d4be"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/bloco/bloco.npz",
+    "destination": "artifacts/initial/20261201/bloco/bloco.npz",
+    "sha256": "1afae18281ec134d06d6607119ba982056db1b45bc009f6a9c485ca28da0116b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/ablacao/ablacao.json",
+    "destination": "artifacts/initial/20261201/ablacao/ablacao.json",
+    "sha256": "951d87ef6cf2c620d7ad5fd1568da4e92547d5b661f972dc37874a9f58c962f6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/ablacao/ablacao.npz",
+    "destination": "artifacts/initial/20261201/ablacao/ablacao.npz",
+    "sha256": "ebf48bc24cbac3e1c764b407ff94d242de1b9b2ee6f4973f9c07b82ad1a55eeb"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/replay_A.npz",
+    "destination": "artifacts/initial/20261201/qf/replay_A.npz",
+    "sha256": "ec96b3be325bdc97eaa3b62a3103d1831a4887744c4b516fedf900618bbd36bc"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/replay_B.npz",
+    "destination": "artifacts/initial/20261201/qf/replay_B.npz",
+    "sha256": "8ca116487a26ae2bc9968a5e0cabd2d0ca755bf55b36795ec84f7f0f41f70593"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/Gate_collect.txt",
+    "destination": "artifacts/initial/20261201/qf/Gate_collect.txt",
+    "sha256": "daa2732f35f0b7be887ce9af36ea9484a38062ec2d1c445d51a2750e9a871d00"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/Cost_collect.txt",
+    "destination": "artifacts/initial/20261201/qf/Cost_collect.txt",
+    "sha256": "82e981f7287cb6dfc718ba29f2fae5c23c9bbd81bde56dd162955c6f9b4532f2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/ACC_train.txt",
+    "destination": "artifacts/initial/20261201/qf/ACC_train.txt",
+    "sha256": "5f414e6655a68e4e1e50ea1cde2b10e59d4c734806222d5bd1d770c46dc57e63"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/qf/ACC_test.txt",
+    "destination": "artifacts/initial/20261201/qf/ACC_test.txt",
+    "sha256": "221127b1d9964d18763fd49aafcf06470c6b45fb59e30704b627f95b24479f62"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261201/predicoes.npz",
+    "destination": "artifacts/initial/20261201/predicoes.npz",
+    "sha256": "bd5ca9a93b2cdee301f91461a833ce595b649cf3003dd3db1e4cd056cde1eeb5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Xtest.csv",
+    "destination": "artifacts/initial/20261202/data/Xtest.csv",
+    "sha256": "680fa4832021f9d6e2468a3f961dab81a215bfe97d6f2e2affa49a9614611ee2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Xtrain.csv",
+    "destination": "artifacts/initial/20261202/data/Xtrain.csv",
+    "sha256": "47277c2e8d26cbc5dd060183ada44338632be35728be364d2088ab746b9d936c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Xval.csv",
+    "destination": "artifacts/initial/20261202/data/Xval.csv",
+    "sha256": "37f1959f4a9a07fa1aba887b405f22bf8ad226c788656e20c9619187cb095188"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Ytest.csv",
+    "destination": "artifacts/initial/20261202/data/Ytest.csv",
+    "sha256": "22ba7e5920b8ae8a27262fe1ed04dad12de13003b1053ad3001f810c9e5ef9f2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Ytrain.csv",
+    "destination": "artifacts/initial/20261202/data/Ytrain.csv",
+    "sha256": "70fbbeed43fa0f093f49c3de0209db1cc1667ed2da51baa353e6c914b5d5a16f"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/Yval.csv",
+    "destination": "artifacts/initial/20261202/data/Yval.csv",
+    "sha256": "90f393587007255a8bcff9b45c6f47850960fd8aa780ea89457a611644547cf6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/dados/dados_meta.json",
+    "destination": "artifacts/initial/20261202/data/dados_meta.json",
+    "sha256": "0f9b65e6b1b79a0d76dfc610022a63abb65a40fae890a496854dbd0dc4994f5b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/bloco/bloco.json",
+    "destination": "artifacts/initial/20261202/bloco/bloco.json",
+    "sha256": "4987dd0f5e1dea90c76c985809a75daed48e07a11cd97d4b3030fe7266aef40c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/bloco/bloco.npz",
+    "destination": "artifacts/initial/20261202/bloco/bloco.npz",
+    "sha256": "03c48e141ea7117c1bdd5bce4e2c624f5096b9988a1512cee832ae45cc745699"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/ablacao/ablacao.json",
+    "destination": "artifacts/initial/20261202/ablacao/ablacao.json",
+    "sha256": "ad7a138f463422566c937944f9260d856aacbb286eddafca9b84ffb011ebf41a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/ablacao/ablacao.npz",
+    "destination": "artifacts/initial/20261202/ablacao/ablacao.npz",
+    "sha256": "7feee8ac9bcdc30ff266ab0dca1fdad2ec3ef23431d8d2407fbaed50a9d2dd76"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/replay_A.npz",
+    "destination": "artifacts/initial/20261202/qf/replay_A.npz",
+    "sha256": "ab0cc3aacbc69ed46de8b7133a716305c0492787112bab16d522980240e5b151"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/replay_B.npz",
+    "destination": "artifacts/initial/20261202/qf/replay_B.npz",
+    "sha256": "f74c03e6a23250dd6442f701eca2bbbcf3dd753f46d472efd3a5d177dd279f00"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/Gate_collect.txt",
+    "destination": "artifacts/initial/20261202/qf/Gate_collect.txt",
+    "sha256": "a9d5f1dc687e428b2ae74bcc189de3ffa888e907f4209d8a8d8cdf7a49da118d"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/Cost_collect.txt",
+    "destination": "artifacts/initial/20261202/qf/Cost_collect.txt",
+    "sha256": "2ecb376cc47a3b497b352f6acb438f15be33fe5aee8d5cad0cc6762685482ada"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/ACC_train.txt",
+    "destination": "artifacts/initial/20261202/qf/ACC_train.txt",
+    "sha256": "b291be248c4e77d8d252542c1730034aa1d452c53de44bbee74c1c4486b23cce"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/qf/ACC_test.txt",
+    "destination": "artifacts/initial/20261202/qf/ACC_test.txt",
+    "sha256": "557453a4f8f4a717471bf000ae401bb1d09e99c0f9aedf3691f66da9100c5c09"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261202/predicoes.npz",
+    "destination": "artifacts/initial/20261202/predicoes.npz",
+    "sha256": "016de1b371bc508b3ebee3f65083162091671914eb8b68db27daee0fcfc504a7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Xtest.csv",
+    "destination": "artifacts/initial/20261203/data/Xtest.csv",
+    "sha256": "452d9768dfdfece87cdea1a15599e03f406416953a1a6421500ecf63c122c951"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Xtrain.csv",
+    "destination": "artifacts/initial/20261203/data/Xtrain.csv",
+    "sha256": "f0002837e80017bdce827ead8ec658524c4647556114bb047d649b26f48812e7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Xval.csv",
+    "destination": "artifacts/initial/20261203/data/Xval.csv",
+    "sha256": "db20fb03049303bd8edcdf0190411de1305c872238d396742f155c359649f529"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Ytest.csv",
+    "destination": "artifacts/initial/20261203/data/Ytest.csv",
+    "sha256": "85bb449cca54ea11da76b4eff9040b7f908400c80e41cbcc8813c830b9efe08a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Ytrain.csv",
+    "destination": "artifacts/initial/20261203/data/Ytrain.csv",
+    "sha256": "d7f94244fe5fa056c741cbc7814ff28605fbd6104354376bdfcad2c13d56ffe6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/Yval.csv",
+    "destination": "artifacts/initial/20261203/data/Yval.csv",
+    "sha256": "c2e258ed45c53dbbf131ac56fb93be1b3f22f3c18c67327a291d0c58bf8be087"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/dados/dados_meta.json",
+    "destination": "artifacts/initial/20261203/data/dados_meta.json",
+    "sha256": "6a31fc0611c8858f1783bef728fcb4b152ed9f7af69f5db9a3e962b39d39c48e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/bloco/bloco.json",
+    "destination": "artifacts/initial/20261203/bloco/bloco.json",
+    "sha256": "e85ccb020d1c1d1a8443e341db58c1a287bbc579b0058bc6e819fbd3cd92e54f"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/bloco/bloco.npz",
+    "destination": "artifacts/initial/20261203/bloco/bloco.npz",
+    "sha256": "30cae98be92de9fb6f50a96a260da8030d62ff5d8090fcb3ba26ac9f47b0946a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/ablacao/ablacao.json",
+    "destination": "artifacts/initial/20261203/ablacao/ablacao.json",
+    "sha256": "ab22d6f87570e542c29513b1275789692f14b1c65ea2ce37bf8186af1d3fe8af"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/ablacao/ablacao.npz",
+    "destination": "artifacts/initial/20261203/ablacao/ablacao.npz",
+    "sha256": "5e9d18f9f4fcaae9a45aa3680719d479125f4c7b758797d958c667a1fa3e132b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/replay_A.npz",
+    "destination": "artifacts/initial/20261203/qf/replay_A.npz",
+    "sha256": "5e61188304b12ef059b67f4fbc714f2294b6f3fc68049d07a24d828150233bbe"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/replay_B.npz",
+    "destination": "artifacts/initial/20261203/qf/replay_B.npz",
+    "sha256": "fe39004cdfe85b33c2b49bc80007fd6327e2119e64503e7379d4f0a118f283f5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/Gate_collect.txt",
+    "destination": "artifacts/initial/20261203/qf/Gate_collect.txt",
+    "sha256": "1b5402d530a555ea9f23c87832f7f031f6320f22c9d1671893cc3fcbb221c202"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/Cost_collect.txt",
+    "destination": "artifacts/initial/20261203/qf/Cost_collect.txt",
+    "sha256": "1999e4b1c0f2f3b8e82bc2cc2486d413022440fa45595ef8a166dbcbe93f1593"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/ACC_train.txt",
+    "destination": "artifacts/initial/20261203/qf/ACC_train.txt",
+    "sha256": "42b6b25a7b0a0ed97f2af3627547cd5b5463a2fb557cf3829c83b8e2877b3a24"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/qf/ACC_test.txt",
+    "destination": "artifacts/initial/20261203/qf/ACC_test.txt",
+    "sha256": "32df7a55560d0394b15007c19cdce6befdc62160621bcdb207462636b202941a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261203/predicoes.npz",
+    "destination": "artifacts/initial/20261203/predicoes.npz",
+    "sha256": "a77370ce4dcb1beba531d2e22b3aa012637281e841054910849ecc2601b58913"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Xtest.csv",
+    "destination": "artifacts/initial/20261204/data/Xtest.csv",
+    "sha256": "ba87ae086ca284ae9bb419bcff36bd01ad3fbffcff1d47858c5b238165c14459"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Xtrain.csv",
+    "destination": "artifacts/initial/20261204/data/Xtrain.csv",
+    "sha256": "59dc173bc3e1f70e493d99c88c6c8b2fad5f5a241d5cc87d94fa4f060a209ec0"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Xval.csv",
+    "destination": "artifacts/initial/20261204/data/Xval.csv",
+    "sha256": "41cafca2f1b5458dfdcd1bc008a96f92939a03bfb7d82aaf46d001b9d28f60d7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Ytest.csv",
+    "destination": "artifacts/initial/20261204/data/Ytest.csv",
+    "sha256": "41bca34dc0abf3f67355ca5a4a502e1d47f642a0288ec519985d1b2f5e5eec5b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Ytrain.csv",
+    "destination": "artifacts/initial/20261204/data/Ytrain.csv",
+    "sha256": "a18ea2ca070b357ce5f5c0f262064225732050b5f659e75fa00ce9901f4cae3b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/Yval.csv",
+    "destination": "artifacts/initial/20261204/data/Yval.csv",
+    "sha256": "2c226e6c7dca4603788c25a99b5516891983c7d394ad4f67f2762abb3c5b8573"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/dados/dados_meta.json",
+    "destination": "artifacts/initial/20261204/data/dados_meta.json",
+    "sha256": "05e305c90de339aae5e928f56efa4f883f12bbe2c8ca5c83b108a693958af4a8"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/bloco/bloco.json",
+    "destination": "artifacts/initial/20261204/bloco/bloco.json",
+    "sha256": "1e811e985e887d82ef78680b32e3b0fd4e4d17b1e82dbe74b6c78a64b0108425"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/bloco/bloco.npz",
+    "destination": "artifacts/initial/20261204/bloco/bloco.npz",
+    "sha256": "eeb0a8d1a070aa02549c1b417b3826cfb53e94b5cffbab166794ad3fc2f8f02b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/ablacao/ablacao.json",
+    "destination": "artifacts/initial/20261204/ablacao/ablacao.json",
+    "sha256": "a5ed7ea4191153268284aa0e7f02772498cce1da693137fe48a12deb3db05a90"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/ablacao/ablacao.npz",
+    "destination": "artifacts/initial/20261204/ablacao/ablacao.npz",
+    "sha256": "18482ce3ce95c488137a65f00895bd61101fb042fa868c728956f1fe63a5c868"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/replay_A.npz",
+    "destination": "artifacts/initial/20261204/qf/replay_A.npz",
+    "sha256": "127973402a1965bd43a1f15aa98c875592252da68c82a1d368ea947dd780b1de"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/replay_B.npz",
+    "destination": "artifacts/initial/20261204/qf/replay_B.npz",
+    "sha256": "d8199b8a1be37fa4893fb46ed26a2a56ccf16f21f370115eb484c15ac72e2a04"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/Gate_collect.txt",
+    "destination": "artifacts/initial/20261204/qf/Gate_collect.txt",
+    "sha256": "023981450dd0534ab61ecab4784d759412bca1172a0fcc1e6ab063982cdbd240"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/Cost_collect.txt",
+    "destination": "artifacts/initial/20261204/qf/Cost_collect.txt",
+    "sha256": "f75c9a160308a6f5c8b698d6830ceb89af49b1188084e66551a8568398357d18"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/ACC_train.txt",
+    "destination": "artifacts/initial/20261204/qf/ACC_train.txt",
+    "sha256": "4955509496d4bacf738e23c71d426f2b70c06acedb197460d1288d5a01406a18"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/qf/ACC_test.txt",
+    "destination": "artifacts/initial/20261204/qf/ACC_test.txt",
+    "sha256": "a36b7d6a63c03594ab5d9769fb2a94450056faefd6a8b6c79283069bc1e11ea0"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261204/predicoes.npz",
+    "destination": "artifacts/initial/20261204/predicoes.npz",
+    "sha256": "19179327d3a1d8a89d3fab511914da8d6615deb85104851523ed13a25d9eee58"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Xtest.csv",
+    "destination": "artifacts/initial/20261205/data/Xtest.csv",
+    "sha256": "7b07dd9dffb9f8b355e21a15a78dd211a83d46446c0382824578c856dc8a58fc"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Xtrain.csv",
+    "destination": "artifacts/initial/20261205/data/Xtrain.csv",
+    "sha256": "811e1c458db649cc40c2d1900021798b3eb19edc9a431dbdd254702c3ade38c4"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Xval.csv",
+    "destination": "artifacts/initial/20261205/data/Xval.csv",
+    "sha256": "48b09e95d7d05a5453ab56d5b2d34bd32273f22a2a02214b1ff42dca8384abcf"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Ytest.csv",
+    "destination": "artifacts/initial/20261205/data/Ytest.csv",
+    "sha256": "7b49d59b9a0761d2715187c47c72bee5d26eae8f1850308c3a68598bf0fd8f7d"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Ytrain.csv",
+    "destination": "artifacts/initial/20261205/data/Ytrain.csv",
+    "sha256": "be28d7db1604f9d6385b0c298c2842a19c37661d573f5af54cd14d38993d005b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/Yval.csv",
+    "destination": "artifacts/initial/20261205/data/Yval.csv",
+    "sha256": "f42f9fc41294a6342d1450ba353bb54794785fb5b14d01d9040b729f22bfcba3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/dados/dados_meta.json",
+    "destination": "artifacts/initial/20261205/data/dados_meta.json",
+    "sha256": "03c76b89990374836713bd60bd2a2c478e0adda36f381e73bf5bf902be86677e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/bloco/bloco.json",
+    "destination": "artifacts/initial/20261205/bloco/bloco.json",
+    "sha256": "a6487126c0b74eab0f54dbcb9af4042c9f47af38b32e1830ad5d4b755a908036"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/bloco/bloco.npz",
+    "destination": "artifacts/initial/20261205/bloco/bloco.npz",
+    "sha256": "6611b3006b9b09d388c80cceedd8a46abb0b2066530a6aaed8f2738f666015da"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/ablacao/ablacao.json",
+    "destination": "artifacts/initial/20261205/ablacao/ablacao.json",
+    "sha256": "ef3255137c3e24120d6da4c5cd4060412b4d91415fd2e9c647c0a711a5b70218"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/ablacao/ablacao.npz",
+    "destination": "artifacts/initial/20261205/ablacao/ablacao.npz",
+    "sha256": "ac7e553f915a511b96cf1cafaea784bb2f3bf492773f99585fc3cd31f170ca0b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/replay_A.npz",
+    "destination": "artifacts/initial/20261205/qf/replay_A.npz",
+    "sha256": "81f5a8d4935931403f2fbb09577e9cd5283904fa941a3b9a4b7e07187d73a5a3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/replay_B.npz",
+    "destination": "artifacts/initial/20261205/qf/replay_B.npz",
+    "sha256": "963549052f63a30aba8189d7e80c8101621960b1a8df7b64a64f933774260589"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/Gate_collect.txt",
+    "destination": "artifacts/initial/20261205/qf/Gate_collect.txt",
+    "sha256": "570a59e83a6c9fdf600c7cbd0f40b0d680f377dcfccde18eaf2ccaaca175c4c9"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/Cost_collect.txt",
+    "destination": "artifacts/initial/20261205/qf/Cost_collect.txt",
+    "sha256": "92bd9f0becd485e61bcabe7f7ce27db926611c872da35f17f71e1cd116a09d6f"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/ACC_train.txt",
+    "destination": "artifacts/initial/20261205/qf/ACC_train.txt",
+    "sha256": "8048dfec6ab3c156ef04333ea9de38bc844b56c80a3cecffc3f84365c13db71a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/qf/ACC_test.txt",
+    "destination": "artifacts/initial/20261205/qf/ACC_test.txt",
+    "sha256": "81eac9b00e08e770a43437bc229955812e45a41bf981763ffba18e8fee68e254"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/bateria/r20261205/predicoes.npz",
+    "destination": "artifacts/initial/20261205/predicoes.npz",
+    "sha256": "6042bd08d45e7fc733f0ca4cf4d04ff8beb5716dc686ac6010e2cf78d22fea4b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Xtest.csv",
+    "destination": "artifacts/confirmation/20263001/data/Xtest.csv",
+    "sha256": "45d1a1855c040d9ff5f56ca8c4add25c58a95887bab2a137fd4388fb46bfcc82"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Xtrain.csv",
+    "destination": "artifacts/confirmation/20263001/data/Xtrain.csv",
+    "sha256": "1c8f2440e4f4b9e9b2eb29da058451ca2335abadf9ab6a62c1143b724236b5b3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Xval.csv",
+    "destination": "artifacts/confirmation/20263001/data/Xval.csv",
+    "sha256": "f704e2c18f7f7ab9df6803531c698b131322dd9a7e24bdb4b1c0b6bd61d6a73b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Ytest.csv",
+    "destination": "artifacts/confirmation/20263001/data/Ytest.csv",
+    "sha256": "c08de5586973eaeb5e214347ae1434628e64abb2b7e1fee4a690cd98d00efb02"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Ytrain.csv",
+    "destination": "artifacts/confirmation/20263001/data/Ytrain.csv",
+    "sha256": "dee213b36b434577e1d8cacb019c3d816cbd4b78276d5893aaf3ced0ae795734"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/Yval.csv",
+    "destination": "artifacts/confirmation/20263001/data/Yval.csv",
+    "sha256": "3ea544bdf8810ada2a5702b05be9da5ab0828b7b0f07d64fa583ca4d0ad5a2c2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/dados/dados_meta.json",
+    "destination": "artifacts/confirmation/20263001/data/dados_meta.json",
+    "sha256": "06a362e3aee2e603129079da6de537ef426d117e8e4060a4926bcdf0dacdf2fc"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/bloco/bloco.json",
+    "destination": "artifacts/confirmation/20263001/bloco/bloco.json",
+    "sha256": "ea3181c0e201c08ff1110643a76d45fb41dfda2392e223af6e673f179509f04f"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/bloco/bloco.npz",
+    "destination": "artifacts/confirmation/20263001/bloco/bloco.npz",
+    "sha256": "285b89d610595b46cde01f7479962cff32c2bb387166eaa7a9ea674172c21fed"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/replay_A.npz",
+    "destination": "artifacts/confirmation/20263001/qf/replay_A.npz",
+    "sha256": "285636e4aeea24c4148bf5f324d8bf8c2ebdd2c5398ed8cabb6b2526248801d4"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/replay_B.npz",
+    "destination": "artifacts/confirmation/20263001/qf/replay_B.npz",
+    "sha256": "12e4854394adf54b5d83147a0e33f2c16116288a06b3c429563ed73fdea945d2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/Gate_collect.txt",
+    "destination": "artifacts/confirmation/20263001/qf/Gate_collect.txt",
+    "sha256": "4932f93edd3785c8c0953e93781065b3b5057af6f21c4cb926fc8459f06cc50e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/Cost_collect.txt",
+    "destination": "artifacts/confirmation/20263001/qf/Cost_collect.txt",
+    "sha256": "009e7e429d8b101fc246b7d896fc0b0fbbeca1e7fa1f257aceaa6c93d0a0f6ae"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/ACC_train.txt",
+    "destination": "artifacts/confirmation/20263001/qf/ACC_train.txt",
+    "sha256": "b49ed4d0526c04e267d3e0849ad8d00dc8f9ecf1deff578a3e9f5a10556491f5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/qf/ACC_test.txt",
+    "destination": "artifacts/confirmation/20263001/qf/ACC_test.txt",
+    "sha256": "d6e9b19721b1bbf71f994a3d5b0089b159bb47851a22b9299dc082b9e0979257"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263001/predicoes.npz",
+    "destination": "artifacts/confirmation/20263001/predicoes.npz",
+    "sha256": "305291de364dacf7f35ccbd9ea1e57a23160bec32ef6f78dd135b713d6003d68"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Xtest.csv",
+    "destination": "artifacts/confirmation/20263002/data/Xtest.csv",
+    "sha256": "f4298ed7cab8b165fdbf91750babdcbe386873343a47da4875aefc365f9e10c7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Xtrain.csv",
+    "destination": "artifacts/confirmation/20263002/data/Xtrain.csv",
+    "sha256": "0361bef6128e6cf3597d8808789fe3df920fed32e5bd08075423da2a40693a4d"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Xval.csv",
+    "destination": "artifacts/confirmation/20263002/data/Xval.csv",
+    "sha256": "d2174e01000b94331f1549579837a06e56da50bb383e4fb8a542b5418c9bf624"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Ytest.csv",
+    "destination": "artifacts/confirmation/20263002/data/Ytest.csv",
+    "sha256": "5dba7af404f0214e470633ea443269c591a61596949654fe42b61124a7334ccb"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Ytrain.csv",
+    "destination": "artifacts/confirmation/20263002/data/Ytrain.csv",
+    "sha256": "feae997bd198091a6d60ecd575362124dac32c992280d6f48318a12f6e8ddfea"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/Yval.csv",
+    "destination": "artifacts/confirmation/20263002/data/Yval.csv",
+    "sha256": "54fedc291b8b06209766b5bca387337edcc9c4c3872aa1d8f34104a784232b5a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/dados/dados_meta.json",
+    "destination": "artifacts/confirmation/20263002/data/dados_meta.json",
+    "sha256": "862f99a572d319af332ab4741a8bf47ab011035f65de16214deed3bbdf0ee39d"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/bloco/bloco.json",
+    "destination": "artifacts/confirmation/20263002/bloco/bloco.json",
+    "sha256": "cd511f409cda9692ce87f537baeb63e185ce035e23ffe97ebb829bc55df6b492"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/bloco/bloco.npz",
+    "destination": "artifacts/confirmation/20263002/bloco/bloco.npz",
+    "sha256": "aabf67ec07cf3ebd06a7a04838249437d87ba4d22ef78d109e97bfd8d7a6e26b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/replay_A.npz",
+    "destination": "artifacts/confirmation/20263002/qf/replay_A.npz",
+    "sha256": "46649358680415789c0736ab702532974d926f4b5c82b8f60273afb40522f354"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/replay_B.npz",
+    "destination": "artifacts/confirmation/20263002/qf/replay_B.npz",
+    "sha256": "82211d33380b803179285c15d96e0e737ac10d023327c0d872c70673670ea67c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/Gate_collect.txt",
+    "destination": "artifacts/confirmation/20263002/qf/Gate_collect.txt",
+    "sha256": "2f64ce81764d636ad95ce0daceeff3db6eebaaaad1f98a981d6368e200b77d97"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/Cost_collect.txt",
+    "destination": "artifacts/confirmation/20263002/qf/Cost_collect.txt",
+    "sha256": "e6c18fc2e6768189c070b7509d52c00a2c4878befee0850da424b6e2261ae927"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/ACC_train.txt",
+    "destination": "artifacts/confirmation/20263002/qf/ACC_train.txt",
+    "sha256": "5bc0c9c63ec0755077ab56e3c9d24116f43cf4ef25320085f448e8ccde9bdf69"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/qf/ACC_test.txt",
+    "destination": "artifacts/confirmation/20263002/qf/ACC_test.txt",
+    "sha256": "04df011fee0e97984debfffe430811703463ef30264ddd2a609cabb9d5712b9b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263002/predicoes.npz",
+    "destination": "artifacts/confirmation/20263002/predicoes.npz",
+    "sha256": "cf39650fe5dc75bcceb11152d7986c9dcf7cef935c0f764efc995e10869f53c6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Xtest.csv",
+    "destination": "artifacts/confirmation/20263003/data/Xtest.csv",
+    "sha256": "da6656aab7a72ff1a24055e28e1ffed71272f6612fad6c64dfcf3829e45e1a47"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Xtrain.csv",
+    "destination": "artifacts/confirmation/20263003/data/Xtrain.csv",
+    "sha256": "112591fe8c2bfa7e99168fb5d415317a98975aee02406ebffaf8b97fe5d05dc1"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Xval.csv",
+    "destination": "artifacts/confirmation/20263003/data/Xval.csv",
+    "sha256": "da0faed28a4fb8a4df84353c34181d195397f79b40e8fdad360fbe812e0c074e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Ytest.csv",
+    "destination": "artifacts/confirmation/20263003/data/Ytest.csv",
+    "sha256": "3c1d2c30b31afeae2422cf3dfdf9e964fe83d5435a6d0f53898f7b59102a51c4"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Ytrain.csv",
+    "destination": "artifacts/confirmation/20263003/data/Ytrain.csv",
+    "sha256": "5c3da776aafa5e6d6a7b2b2a354285821807025f95bc448f5ec17af2d9a544c5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/Yval.csv",
+    "destination": "artifacts/confirmation/20263003/data/Yval.csv",
+    "sha256": "ae90eea66e2b233ab9796128a146644049b1fa501767c6369ed3205525ca5cf3"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/dados/dados_meta.json",
+    "destination": "artifacts/confirmation/20263003/data/dados_meta.json",
+    "sha256": "2bad4a43f95bff4005894f15101eafabcc717d3be6fca45355a51d517b7f6a60"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/bloco/bloco.json",
+    "destination": "artifacts/confirmation/20263003/bloco/bloco.json",
+    "sha256": "b751da8942fe1d4e355df564f0ec5787212d3136e78171aa8b1498f9b95c7d29"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/bloco/bloco.npz",
+    "destination": "artifacts/confirmation/20263003/bloco/bloco.npz",
+    "sha256": "8d66e980bda066d9f38a3dcf51c722f3b73ab28ace7cd2925c7f23d1fb3427b1"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/replay_A.npz",
+    "destination": "artifacts/confirmation/20263003/qf/replay_A.npz",
+    "sha256": "72f7b9c8da83005b870b61106ef1f7afb128f51988bee88f7fc093822459badb"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/replay_B.npz",
+    "destination": "artifacts/confirmation/20263003/qf/replay_B.npz",
+    "sha256": "a8134ff76540d714f6f30c73f8a589084f9c1dab4e2755e645a17a82eeca6dac"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/Gate_collect.txt",
+    "destination": "artifacts/confirmation/20263003/qf/Gate_collect.txt",
+    "sha256": "8172cbd0f4896140305e53310b86a92936f90322894305655b3f4b4034e7733f"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/Cost_collect.txt",
+    "destination": "artifacts/confirmation/20263003/qf/Cost_collect.txt",
+    "sha256": "f9bf6599ddb8247554fb6f6dedde05bd5bb0eb3adcff55686ab9dc1fd8238674"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/ACC_train.txt",
+    "destination": "artifacts/confirmation/20263003/qf/ACC_train.txt",
+    "sha256": "7f029aefb131aa02e76821f50a879412288625ba9ea0ad9b6f9c5c348ecbf77c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/qf/ACC_test.txt",
+    "destination": "artifacts/confirmation/20263003/qf/ACC_test.txt",
+    "sha256": "c5345d8f646dda5619afb754dd2a8ab7599e3296204df5f5df89d4d7ae3ed33c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263003/predicoes.npz",
+    "destination": "artifacts/confirmation/20263003/predicoes.npz",
+    "sha256": "f6dd70889ba9c25e5aaf88b9c25fb8731c1168bccf36a1c750c2fc12dbbe9d1c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Xtest.csv",
+    "destination": "artifacts/confirmation/20263004/data/Xtest.csv",
+    "sha256": "aacca7ebaff339277d00a986ba78a52f210180c1742d473077978a0bcdd2fc1c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Xtrain.csv",
+    "destination": "artifacts/confirmation/20263004/data/Xtrain.csv",
+    "sha256": "2acbfaac44cfc796ee4b303570b7a3f4cda7dc937a4eb5a7f2bd007dbd2f104b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Xval.csv",
+    "destination": "artifacts/confirmation/20263004/data/Xval.csv",
+    "sha256": "8926135c91075966b816ebfcd58775e886ac5d0c7ad246593b4d4840d2c3bf8c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Ytest.csv",
+    "destination": "artifacts/confirmation/20263004/data/Ytest.csv",
+    "sha256": "c75063c9d104784fc2af0ffd8a053ca678a8f2a33dea73710672258cbc808b6a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Ytrain.csv",
+    "destination": "artifacts/confirmation/20263004/data/Ytrain.csv",
+    "sha256": "2ffdf898e0335abcf081bfd1b60426a0809c24289feae10b7be55d121403bbe5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/Yval.csv",
+    "destination": "artifacts/confirmation/20263004/data/Yval.csv",
+    "sha256": "312b4adb6e1ab2e028cbd6bdc6a38d2442d714ebc2648cc89199a7c0fda643da"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/dados/dados_meta.json",
+    "destination": "artifacts/confirmation/20263004/data/dados_meta.json",
+    "sha256": "2c3a6b2469d00103ff392cd2bc583139a3137a486d5eb717d5daf75d5e6fdc04"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/bloco/bloco.json",
+    "destination": "artifacts/confirmation/20263004/bloco/bloco.json",
+    "sha256": "4358a872f4380db3eaea32f60a8d38c8c0ea696f2f489349cded05ddde77e813"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/bloco/bloco.npz",
+    "destination": "artifacts/confirmation/20263004/bloco/bloco.npz",
+    "sha256": "d20275c951ee44b350df9ef2918c91aff6879dc2f30b8ec6e9acbcb82049ac27"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/replay_A.npz",
+    "destination": "artifacts/confirmation/20263004/qf/replay_A.npz",
+    "sha256": "6d982057a8fdaf2c608bd779ac1efb3dfd601bed08d7410e98f21dd0c034569a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/replay_B.npz",
+    "destination": "artifacts/confirmation/20263004/qf/replay_B.npz",
+    "sha256": "63851ba8c20478faaebd0d351947ee0748c34733b7975aba8fa56fe57f0fe9c5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/Gate_collect.txt",
+    "destination": "artifacts/confirmation/20263004/qf/Gate_collect.txt",
+    "sha256": "aab587a828906197bdd34af42bc4278c0d62238009fc9d8a1553f93a529684f8"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/Cost_collect.txt",
+    "destination": "artifacts/confirmation/20263004/qf/Cost_collect.txt",
+    "sha256": "19d23cfe334600453af4d2fdeac3b5d6e370108ba851a2c8cf9eb2a18583f706"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/ACC_train.txt",
+    "destination": "artifacts/confirmation/20263004/qf/ACC_train.txt",
+    "sha256": "ff6fa94e02aef6123a9bc06efe09c81b81b9eba27371471c777304789bc8b974"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/qf/ACC_test.txt",
+    "destination": "artifacts/confirmation/20263004/qf/ACC_test.txt",
+    "sha256": "3fd6013568465e24f7385c9d9d7f805e56eab8680349650f8764dd3022af6166"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263004/predicoes.npz",
+    "destination": "artifacts/confirmation/20263004/predicoes.npz",
+    "sha256": "c31b92c06d6f1c97d2f2b35909dfe346ac19bdd6bcad4f7779c8864488a7c2d7"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Xtest.csv",
+    "destination": "artifacts/confirmation/20263005/data/Xtest.csv",
+    "sha256": "aacd8abf1dd5f8f1a29ab89f90b79ee0b434538bcbb7d6eb6b26b4aa7a5cabe5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Xtrain.csv",
+    "destination": "artifacts/confirmation/20263005/data/Xtrain.csv",
+    "sha256": "ac0d983e8702b46e996f5f5327b23b45cb2e7acb0749000710bcbd1b1297c469"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Xval.csv",
+    "destination": "artifacts/confirmation/20263005/data/Xval.csv",
+    "sha256": "e489069c3d0becc22ffce7c23ad8c419308185e6c12b4ba5c464553f0c71cda9"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Ytest.csv",
+    "destination": "artifacts/confirmation/20263005/data/Ytest.csv",
+    "sha256": "3fb98041f59456c70441727c3305365afbce87537e4e2a3cfb20c61df1c750d6"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Ytrain.csv",
+    "destination": "artifacts/confirmation/20263005/data/Ytrain.csv",
+    "sha256": "68e60bc0ddcb0213bc020de9d36b3313c20da3e33a67544383d95d0fe483c3a5"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/Yval.csv",
+    "destination": "artifacts/confirmation/20263005/data/Yval.csv",
+    "sha256": "8957af70c4f7617d1a0a9499fb61630e986aa344a05a40b89d00bfd168721ea1"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/dados/dados_meta.json",
+    "destination": "artifacts/confirmation/20263005/data/dados_meta.json",
+    "sha256": "67139cc9480a61279ee7513d114e588acdfd14ab2f9c095e51fe16a2a2be4f9b"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/bloco/bloco.json",
+    "destination": "artifacts/confirmation/20263005/bloco/bloco.json",
+    "sha256": "28468486a3a40a0cac39548d131d11b2a526be3f202cbcd6a83857147da597a9"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/bloco/bloco.npz",
+    "destination": "artifacts/confirmation/20263005/bloco/bloco.npz",
+    "sha256": "375444f54405f2635a004827b33f052c552a1be328f37d4f65d3a23835e792c2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/replay_A.npz",
+    "destination": "artifacts/confirmation/20263005/qf/replay_A.npz",
+    "sha256": "6efa0dcd90c73a893e1ca0d02eec1a40da32435360f312783420bdfea23ddc6c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/replay_B.npz",
+    "destination": "artifacts/confirmation/20263005/qf/replay_B.npz",
+    "sha256": "105c2c4e197bd9248c9e93aa8fc547ccdc291e0ce04e155b95dae6ce3b8dcdc0"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/Gate_collect.txt",
+    "destination": "artifacts/confirmation/20263005/qf/Gate_collect.txt",
+    "sha256": "e303060f8ffc387af94eaef365bdc93d7fd3eba7c0e78d6fa4d331906d2bea82"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/Cost_collect.txt",
+    "destination": "artifacts/confirmation/20263005/qf/Cost_collect.txt",
+    "sha256": "d1360452ff22ce08a9309595e226c3b27d4530855b707d60e7046e98f4a85e9e"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/ACC_train.txt",
+    "destination": "artifacts/confirmation/20263005/qf/ACC_train.txt",
+    "sha256": "86a576155f256b83e6f1e52b1d477446ad4546d1f2bbc59976b89a8d8ad7e061"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/qf/ACC_test.txt",
+    "destination": "artifacts/confirmation/20263005/qf/ACC_test.txt",
+    "sha256": "377c9894cb4ed7d0b7f9d2e26724cca9d9316b4237db4f39e6fae1982a583e53"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/bateria/r20263005/predicoes.npz",
+    "destination": "artifacts/confirmation/20263005/predicoes.npz",
+    "sha256": "76179398d890e78b37a2efd1222b3a0b6f42fda5014031ff02fee399fa897e8c"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/Datasets/Xbars-and-stripes_4d_1000.csv",
+    "destination": "third_party/qflair/released_data/Xbars-and-stripes_4d_1000.csv",
+    "sha256": "57614fbcd09bb02cd81ad1d02c208577663e7189c1696fa75f2e555ee05756f2"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/Datasets/Ybars-and-stripes_4d_1000.csv",
+    "destination": "third_party/qflair/released_data/Ybars-and-stripes_4d_1000.csv",
+    "sha256": "14cecda6b2208d504790e72ed99dc14744646a396b62ad1e62505a846cc78717"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/Datasets/Xbars-and-stripes_4d_200.csv",
+    "destination": "third_party/qflair/released_data/Xbars-and-stripes_4d_200.csv",
+    "sha256": "b588728eee3a0e07d0496268e40f2ea03c9b6aa686d419a6c78cb6ffa4bdd254"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/reproducao_benchmarks_qflair/fontes/repo/Q-FLAIR-4f331783fc5bda5492fa3fffff0a845b0805eb39/Datasets/Ybars-and-stripes_4d_200.csv",
+    "destination": "third_party/qflair/released_data/Ybars-and-stripes_4d_200.csv",
+    "sha256": "04bb98b2f0c3652bf534cb6f11f792e7be59d502112917b23dbfd88d6584e170"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_confirmacao_raw/PROTOCOLO.md",
+    "destination": "provenance/protocols/confirmation.md",
+    "sha256": "ac0b20ed0a4ba9fa7359619c90b8f7cee7fb62587615582c84315d5d8dbe562a"
+  },
+  {
+    "source": "mamografia-estudo/experimentos/bs_artigo_proximos_testes/PLANO.md",
+    "destination": "provenance/protocols/initial.md",
+    "sha256": "864aefcf502508fc0cf894682e278dad33afacd9c149b27c5db45b357d1ceb8e"
+  }
+]
